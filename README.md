@@ -1,6 +1,3 @@
-# POS-Workflow-Automation-Data-Insights
-Developed a POS workflow automation system with data analytics features to streamline operations and generate actionable business insights. https://hotel-pos-demo.web.app/
-
 # POS Workflow Automation & Data Insights
 
 A cloud-based **Hotel POS Workflow Automation** system designed to streamline point of sale operations, automate billing, and provide actionable sales and business insights through interactive dashboards and reports. This project integrates order management, multi-outlet analytics, and real-time sales tracking to help hospitality businesses run efficiently and make data-driven decisions. :contentReference[oaicite:0]{index=0}
